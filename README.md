@@ -6,6 +6,7 @@
 ## 구성원
 
 - 디자이너
+  - <a href="mailto:choisoowyan@gmail.com">SEEEEEMO</a>
 - 프론트
   - <a href="https://github.com/hotbreakb">hotbreakb</a>
   - <a href="https://github.com/qldwldakstp">qldwldakstp</a>

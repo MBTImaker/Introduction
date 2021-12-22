@@ -6,6 +6,15 @@
 ## [크리스마스에 영화 뭐 볼래?](https://christmas-movie.net/html/home.html)
 - MBTI 유형을 분석하여 "나와 비슷한 영화 캐릭터", "나에게 추천하는 영화 3가지"를 알려주는 웹 서비스.
 <br>
+<img width="1000" src="https://user-images.githubusercontent.com/64337152/147040281-1813e5a8-791f-4d86-a7e3-4b0d034dc674.png">
+
+https://user-images.githubusercontent.com/64337152/147039740-9ecc461c-b5e6-408f-9c14-89a657c2fb83.mov
+
+https://user-images.githubusercontent.com/64337152/147039744-341435f0-ffd0-4fa9-9dc4-a10abb82ff18.mov
+
+
+
+<br>
 
 ## Member
 

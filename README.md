@@ -3,7 +3,7 @@
 - 12월 25일 크리스마스를 목표로 배포.
 <br>
 
-## [크리스마스에 영화 뭐 볼래?](christmas-movie.net/html/home.html)
+## [크리스마스에 영화 뭐 볼래?](https://christmas-movie.net/html/home.html)
 - MBTI 유형을 분석하여 "나와 비슷한 영화 캐릭터", "나에게 추천하는 영화 3가지"를 알려주는 웹 서비스.
 <br>
 

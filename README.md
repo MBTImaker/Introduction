@@ -17,6 +17,29 @@ MBTI | ISTP | ENFJ | ISTJ | ISTJ
 캐릭터 | 007의 제임스 본드 | 금발이 너무해의 엘 우즈 | 킹스맨의 해리하트 | 킹스맨의 해리하트
 <br>
 
+## Role
+
+### <a href="https://github.com/hotbreakb">hotbreakb</a>
+- css, js, font-face 최적화
+- 신고 기능 개발
+- 프론트 배포(AWS S3, CloudFront, Github.io)
+
+### <a href="https://github.com/y55mun">y55mun</a>
+- 댓글 기능 개발
+  - 비밀번호 암호화
+  - 글자수 카운트
+  - 페이징
+
+### <a href="https://github.com/seonpilKim">seonpilKim</a>
+- DB 설계 & RESTful API 설계
+- API 개발
+  - 댓글 API + 비속어 필터링
+  - 신고 API + Slack 연동(webhook)
+  - 테스트 분석 API
+  - IP 차단 API
+- 서버 배포(AWS EC2, Heroku)
+<br>
+
 ## Github Repository
 - [Front-end](https://github.com/MBTImaker/MBTImaker-javascript-frontend)
 - [Back-end](https://github.com/MBTImaker/MBTImaker-Spring-backend)

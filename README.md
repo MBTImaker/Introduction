@@ -30,11 +30,12 @@ MBTI | ISTP | ENFJ | ISTJ | ISTJ
 
 ### <a href="https://github.com/hotbreakb">hotbreakb</a>
 - css, js, font-face 최적화
-- 신고 기능 개발
+- 공유 기능
+- 신고 기능
 - 프론트 배포(AWS S3, CloudFront, Github.io)
 
 ### <a href="https://github.com/y55mun">y55mun</a>
-- 댓글 기능 개발
+- 댓글 기능
   - 비밀번호 암호화
   - 글자수 카운트
   - 페이징
